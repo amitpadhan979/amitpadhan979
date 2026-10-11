@@ -80,6 +80,17 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/amitpadhan979?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-765e921d7b3b.png" width="65" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="65" alt="YOLO" title="YOLO" />
+  </a>
+</p>
+
+---
+
 <div align="center">
   <sub>Maintained by <a href="https://github.com/amitpadhan525">@amitpadhan525</a> • Secondary Profile for Development & Open Source Tools</sub>
 </div>
